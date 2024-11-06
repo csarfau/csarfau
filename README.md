@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👩🏻‍💻 César Faustino
 
-<!--
-**csarfau/csarfau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor FullStack`**
 
-Here are some ideas to get you started:
+Me chamo César Faustino, tenho 25 anos, e sou natural de Minas Gerais. Sou apaixonado por tecnologia e estou sempre buscando por conhecimento e novos aprendizados nessa área que tanto amo.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=csarfau&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" 
+  />
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=csarfau&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
+  />
+</p>
