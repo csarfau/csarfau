@@ -121,7 +121,7 @@ Me chamo César Faustino, tenho 25 anos, e sou natural de Minas Gerais. Sou apai
     src="https://github-readme-stats.vercel.app/api?username=csarfau&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" 
   />
   <img 
-      align="right" 
+      align="left" 
       alt="GitHub Stats" 
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=csarfau&theme=tokyonight&show_icons=true&hide_border=false&layout=compact" 
