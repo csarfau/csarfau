@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo César Faustino, tenho 25 anos, e sou natural de Minas Gerais. Sou apaixonado por tecnologia e estou sempre buscando por conhecimento e novos aprendizados nessa área que tanto amo.
+Me chamo César Faustino, tenho 26 anos, e sou natural de Minas Gerais. Sou apaixonado por tecnologia e estou sempre buscando por conhecimento e novos aprendizados nessa área que tanto amo.
 
 ---
 
